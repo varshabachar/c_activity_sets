@@ -1,0 +1,26 @@
++l
+1	// 1. Write a C program to print your name.
+2	#include<stdio.h>
+3	int main()
+4	{
+5	    printf("Varsha");
+6	    return 0;
+7	}+r
+Starting program: c:\Users\Win11 Pro 22H2\c_activity_sets\set01/./problem01.exe 
+[New Thread 6212.0x33d4]
+[New Thread 6212.0x3678]
+[Inferior 1 (process 6212) exited normally]
++q
++l
+1	// 1. Write a C program to print your name.
+2	#include<stdio.h>
+3	int main()
+4	{
+5	    printf("Varsha");
+6	    return 0;
+7	}+r
+Starting program: c:\Users\Win11 Pro 22H2\c_activity_sets\set01/./problem01.exe 
+[New Thread 8844.0x3430]
+[New Thread 8844.0x700]
+[Inferior 1 (process 8844) exited normally]
++q
