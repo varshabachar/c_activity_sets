@@ -24,3 +24,8 @@ Starting program: c:\Users\Win11 Pro 22H2\c_activity_sets\set01/./problem01.exe
 [New Thread 8844.0x700]
 [Inferior 1 (process 8844) exited normally]
 +q
++bmain
+Undefined command: "bmain".  Try "help".
++b main
+Breakpoint 1 at 0x40146e: file c:\Users\Win11 Pro 22H2\c_activity_sets\set01\problem01.c, line 5.
++q
