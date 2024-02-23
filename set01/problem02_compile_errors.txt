@@ -1,0 +1,7 @@
+Compilation started at 2/23/2024, 1:53:59 PM
+c:\Users\Win11 Pro 22H2\c_activity_sets\set01\problem02.c:4:1: error: expected identifier or '(' before '{' token
+ {
+ ^
+Compilation finished at 2/23/2024, 1:53:59 PM
+Compilation started at 2/23/2024, 1:54:34 PM
+Compilation finished at 2/23/2024, 1:54:35 PM
