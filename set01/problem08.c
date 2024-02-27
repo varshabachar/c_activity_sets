@@ -9,7 +9,7 @@ int main()
     n=input_array_size();
     int a[n];
     input_array(n,a);
-    sum=sum-n_array(n,a);
+    sum=sum_n_array(n,a);
     return 0;
 }
 int input_array_size()
@@ -26,7 +26,7 @@ void input_array(int n, int a[n])
     for(int i =0;i<n;i++)
 {
     printf("enter a value:");
-scanf("%D",&a[i]);
+scanf("%d",&a[i]);
 }
         
     }
