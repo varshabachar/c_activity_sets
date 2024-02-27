@@ -1,0 +1,45 @@
+#include<stdio.h>
+int input_array_size();
+void input_array(int n, int a[n]);
+int sum_n_array(int n , int a[n]);
+void output(int n , int a[n],int sum);
+int main()
+{
+    int n, sum;
+    n=input_array_size();
+    int a[n];
+    input_array(n,a);
+    sum=sum-n_array(n,a);
+    return 0;
+}
+int input_array_size()
+{
+    int x;
+    printf("enter the value:");
+    scanf("%d",&x);
+    return x;
+
+}
+void input_array(int n, int a[n])
+{
+    printf("enter %d elements:\n",n);
+    for(int i =0;i<n;i++)
+{
+    printf("enter a value:");
+scanf("%D",&a[i]);
+}
+        
+    }
+    int sum_n_array(int n, int a[n])
+{
+int i, sum=0;
+for(i=0;i<n;i++)
+{
+    sum=sum+a[i];
+}
+return sum;
+}
+void output(int n, int a[n],int sum)
+{
+printf("the sum of the numbers provided=%d",sum);
+}
