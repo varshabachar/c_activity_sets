@@ -1,0 +1,13 @@
+Compilation started at 3/1/2024, 10:38:52 PM
+c:\Users\Win11 Pro 22H2\Desktop\twst\c_activity_sets\set02\problem01.c: In function 'main':
+c:\Users\Win11 Pro 22H2\Desktop\twst\c_activity_sets\set02\problem01.c:10:5: warning: implicit declaration of function 'output' [-Wimplicit-function-declaration]
+     output(base,height,area);
+     ^~~~~~
+c:\Users\Win11 Pro 22H2\Desktop\twst\c_activity_sets\set02\problem01.c: At top level:
+c:\Users\Win11 Pro 22H2\Desktop\twst\c_activity_sets\set02\problem01.c:25:6: warning: conflicting types for 'output'
+ void output(float base,float height,float area)
+      ^~~~~~
+c:\Users\Win11 Pro 22H2\Desktop\twst\c_activity_sets\set02\problem01.c:10:5: note: previous implicit declaration of 'output' was here
+     output(base,height,area);
+     ^~~~~~
+Compilation finished at 3/1/2024, 10:38:53 PM
