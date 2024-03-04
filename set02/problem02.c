@@ -13,4 +13,34 @@ int main()
     output(s1,s2,s3,isscalene);
     return 0;
 }
+int input_side()
+{
+    int side;
+    printf("enter the lenght of one side: ");
+    scanf("%d",&side);
+    return side;
+}
+int check_scalene(int a, int b, int c)
+{
+    if (a!=b && b!=c && a!=c )
+{
+return 1;
+}
+    else
+    {
+return 0;
+    }
+}
+void output(int a, int b, int c, int isscalene)
+{
+    if(isscalene==1)
+    {
+        printf("the tringale with sides %d,%d,%d is a scalene tringle.\n",a,b,c);
+
+    }
+    else {
+        printf("the trinagle with sides %d,%d,%d is not a scalene triangle.\n",a,b,c);
+
+    }
+}
 

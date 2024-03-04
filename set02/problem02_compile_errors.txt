@@ -8,3 +8,21 @@ Compilation started at 3/4/2024, 2:08:49 PM
 c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file c:\Users\Win11 Pro 22H2\Desktop\twst\c_activity_sets\set02\problem02.exe: Permission denied
 collect2.exe: error: ld returned 1 exit status
 Compilation finished at 3/4/2024, 2:08:49 PM
+Compilation started at 3/4/2024, 2:58:08 PM
+c:\Users\Win11 Pro 22H2\Desktop\twst\c_activity_sets\set02\problem02.c: In function 'output':
+c:\Users\Win11 Pro 22H2\Desktop\twst\c_activity_sets\set02\problem02.c:38:9: warning: implicit declaration of function 'print' [-Wimplicit-function-declaration]
+         print("the tringale with sides %d,%d,%d is a scalene tringle.\n",a,b,c);
+         ^~~~~
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file c:\Users\Win11 Pro 22H2\Desktop\twst\c_activity_sets\set02\problem02.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+Compilation finished at 3/4/2024, 2:58:08 PM
+Compilation started at 3/4/2024, 2:58:30 PM
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file c:\Users\Win11 Pro 22H2\Desktop\twst\c_activity_sets\set02\problem02.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+Compilation finished at 3/4/2024, 2:58:30 PM
+Compilation started at 3/4/2024, 2:59:14 PM
+c:/mingw/bin/../lib/gcc/mingw32/6.3.0/../../../../mingw32/bin/ld.exe: cannot open output file c:\Users\Win11 Pro 22H2\Desktop\twst\c_activity_sets\set02\problem02.exe: Permission denied
+collect2.exe: error: ld returned 1 exit status
+Compilation finished at 3/4/2024, 2:59:14 PM
+Compilation started at 3/4/2024, 3:00:41 PM
+Compilation finished at 3/4/2024, 3:00:41 PM
